@@ -1,6 +1,8 @@
 # RM_ASSIGNMNT3_LLM
 Research module assignment-3
 
+LLM for Sentiment Analysis of Amazon Shoe Reviews
+
 <br>INTRODUCTION:
 	One of the core tasks in NLP is sentiment analysis, which can be explained as determining the sentiment expressed in a piece of text. We explain the process and results for fine-tuning two pre-trained large language models, BERT and RoBERTa, on an Amazon dataset shoe review. The main task was the classification of reviews provided by customers into sentiment categories ranging from "Very poor" to "Excellent."
 Dataset selection: For our work, we opted to use the Amazon Shoe Ratings dataset from based on its diversity of nature, size, and relevance. The collection has thousands of customer reviews with a wide range of sentiment expressions. Each is attached to an emotion label at a scale from 0 to 4, where 0 is "Very poor," and 4 is "Excellent.". The huge number of real-world textual content that lies in this dataset makes for a challenging context of testing and optimizing pre-trained LLMs. It further enables training models directly relevant to e-commerce platforms where business intelligence is key and depends upon the analysis of users' sentiments.
